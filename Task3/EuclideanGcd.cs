@@ -5,7 +5,7 @@
 namespace Task3;
 using System.Diagnostics;
 
-public static class EuclideanGcd
+internal static class EuclideanGcd
 {
     public static int Calculate(int a, int b)
     {
